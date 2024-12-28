@@ -34,7 +34,7 @@ sections:
     media:
       url: /images/127f63e6f803195a1dec799762c5ef1b.gif
       altText: Me
-      elementId: ''
+      elementId: '1'
       type: ImageBlock
     badge:
       label: 'Hi , I am UVAN SANKAR'
