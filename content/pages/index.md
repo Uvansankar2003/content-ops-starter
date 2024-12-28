@@ -10,7 +10,8 @@ sections:
     subtitle: Follow to learn and grow
     text: >
       A Cyber Security Enthusiastic learner. I work as a Consultant at SISA. I
-      love to learn and i play CTFs 
+      love to learn and i play CTFs. I love the Offensive Side of Cyber Security
+      and interested in Red team.
     actions:
       - label: Get started
         altText: ''
