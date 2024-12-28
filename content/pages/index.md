@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: A Journey To The Cyber Relam
+      text: A Journey To The Cyber Realm
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
